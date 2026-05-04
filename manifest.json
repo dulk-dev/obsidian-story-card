@@ -1,0 +1,9 @@
+{
+	"id": "story-card",
+	"name": "Story Card",
+	"version": "0.1.1",
+	"minAppVersion": "1.5.0",
+	"description": "Generate Xiaohongshu-style story cards from Markdown notes with smart splitting.",
+	"author": "dulk",
+	"isDesktopOnly": true
+}
